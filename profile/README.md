@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://edgaze.ai">
-    <img src="https://www.edgaze.ai/brand/edgaze-mark.png" alt="Edgaze" width="96">
-  </a>
-</p>
-
-<h1 align="center">Edgaze</h1>
+<h1 align="center">
+  <a href="https://edgaze.ai"><img src="https://www.edgaze.ai/brand/edgaze-mark.png" alt="" width="48" align="absmiddle"></a>&nbsp;edgaze
+</h1>
 
 <p align="center">
   <b>Publish an AI workflow once. Let people and agents run it anywhere.</b>
@@ -16,8 +12,6 @@
   <a href="https://github.com/edgaze-ai/mcp">MCP</a> ·
   <a href="https://github.com/edgaze-ai/edgaze-openapi">API spec</a>
 </p>
-
----
 
 Edgaze is a marketplace and execution layer for AI workflows.
 
